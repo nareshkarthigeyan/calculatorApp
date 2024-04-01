@@ -20,9 +20,7 @@ const styles = StyleSheet.create({
         flex: 4,
     },
     header: {
-        height: 80,
-        borderBottomLeftRadius: 40,
-        borderBottomRightRadius: 40,
+        height: 60,
     },
 });
 
